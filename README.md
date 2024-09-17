@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on React Js
-- 📫 How to reach me "Mr.Shahzad.Developer@gmail.com"
+- 📫 How to reach me "mr.shahzad.developer@gmail.com"
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I made 15 projects without any experience.
 <!---
