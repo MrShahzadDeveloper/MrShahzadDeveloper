@@ -1,6 +1,17 @@
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzad-sohail) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.shahzad.developer@gmail.com)
+<!-- Banner Section -->
+<h1 align="center">Hi 👋 My name is Shehzad</h1>
+<h3 align="center">Full Stack Web Application Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahzad-sohail">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mr.shahzad.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
